@@ -1,0 +1,9 @@
+{
+  "total_modules": 123,
+  "file1_only": 79,
+  "file2_only": 34,
+  "merged": 10,
+  "images_extracted": 89,
+  "code_files_created": 44,
+  "anomalies": []
+}
